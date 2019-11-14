@@ -3,11 +3,12 @@ package com.example.codigo.myapplication;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class informe extends AppCompatActivity {
 
-    TextView informe2;
+    EditText informe2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
